@@ -1,2 +1,3 @@
-# Angular2Research
+# AngularResearch
 Angular2Research
+---
